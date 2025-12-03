@@ -1,0 +1,9 @@
+{
+  "name": "softmanga-demo-bot",
+  "version": "1.0.0",
+  "description": "Demo Telegram bot structure using Node.js and Telegraf",
+  "main": "src/bot.js",
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}
