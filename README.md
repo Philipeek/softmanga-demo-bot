@@ -54,14 +54,11 @@ node src/bot.js
 This is a demo project.
 The repository does NOT contain:
 
-real API tokens
-
-production logic
-
-user data
-
-private configs
+- real API tokens
+- production logic
+- user data
+- private configs
 
 📬 Contact
 
-For collaboration or questions — feel free to reach out.
+- For collaboration or questions — feel free to reach out.
