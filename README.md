@@ -33,20 +33,21 @@ softmanga-demo-bot/
 │        └── example.env      # Example env file (no secrets)
 │
 └── package.json
+```
 
 🧩 Technologies Used
 
-Node.js
-
-Telegraf Telegram Framework
-
-REST API
-
-Modular bot structure
+- Node.js
+- Telegraf Telegram Framework
+- REST API
+- Modular bot structure
 
 📦 Install & Run (Demo)
+
+```bash
 npm install
 node src/bot.js
+```
 
 ⚠️ Security Notes
 
