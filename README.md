@@ -33,7 +33,6 @@ softmanga-demo-bot/
 │        └── example.env      # Example env file (no secrets)
 │
 └── package.json
-```
 
 🧩 Technologies Used
 
